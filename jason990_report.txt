@@ -1,0 +1,4 @@
+1.) 64,420 trials on average
+2.) 305 trials on average
+3.) It is easier to brute force collision attacks, as there is significantly less
+trials one has to perform.
