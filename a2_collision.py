@@ -24,5 +24,3 @@ def find_collision(n):
             tup = (arr2[a], arr2[b])
             print trials
             return tup
-for e in range(0, 15):
-    find_collision(2)

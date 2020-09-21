@@ -6,7 +6,6 @@ def find_preimage(target,n):
     st = string.printable
     j = 0
     a = 0
-    print(int(z))
     while j == 0:
         a +=1
         m = hashlib.sha256()
