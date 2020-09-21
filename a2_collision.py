@@ -22,5 +22,4 @@ def find_collision(n):
             arr1[a] = None
             b = arr1.index(finO)
             tup = (arr2[a], arr2[b])
-            print trials
             return tup
